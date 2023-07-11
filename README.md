@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Game%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align="center">
   <img src="akudama-drive-anime_4.1.gif" />
@@ -12,14 +12,17 @@
 
 ## Hi 👋, Senior Game & Mobile Developer!
 
-Senior full-stack developer with 10+ years of experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js. Specialized in developing 20+ useful, well-constructed websites and applications using React.js and Node.js. 
-Enough experience in Blockchain Technologies like DeFi, DAO, Crypto, Ethereum, Avalanche, Solidity, Solana, web3.js, Smart Contracts (NFT/ERC20/ERC721), ICO/IEO, Exchange Platforms and NFT marketplace. Experience in SQL programming language in MySQL, OraclePL/SQL and other database environments like MongoDB and PostgreSQL.
-Able to effectively self-manage during independent projects, as well as leading and collaborating with team members on often time sensitive, different time zone (PST, EST), challenging web & blockchain projects that require outstanding creative and technical capabilities.
+With over 7 years of experience in game development, I am confident in my ability to contribute to anyone's success.
+Throughout my career, I have gained a deep understanding of Unity and have developed a wide range of games across different platforms. I have experience with game design, programming, and optimization, ensuring that games run smoothly and efficiently. Additionally, I have experience leading teams and collaborating with artists, designers, and other developers to create high-quality games.
+
+As a remote worker, I am highly self-motivated and able to manage my time effectively. I have experience working with remote teams and understand the importance of clear communication and collaboration. I am committed to delivering high-quality work on time and within budget.
 
 Over the course of 10 years I have worked with a vast amount of technologies.
 
 Main Skills:
-- Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
+- Unity3D
+
+Other Skills
 - React, React Hooks, React Context, 
 - Tailwind CSS, Material-UI, Bootstrap
 - GraphQL, Apollo
