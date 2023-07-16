@@ -31,14 +31,14 @@ Other Skills
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
 
-I'm full time developer. Please contact me at ctiptopper@gmail.com
+I'm full time developer. Please contact me at ospray0222@gmail.com
 
 
 
 
 
  <br>
-
+<img src="4.gif" />
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -80,5 +80,5 @@ I'm full time developer. Please contact me at ctiptopper@gmail.com
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
-
+  
 
