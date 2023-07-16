@@ -9,7 +9,7 @@
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br>
 </p>
-
+    <img src="https://github.com/osprey222/Timbo-Friends/blob/main/4.gif" />
 ## Hi 👋, Senior Game & Mobile Developer!
 
 With over 7 years of experience in game development, I am confident in my ability to contribute to anyone's success.
@@ -83,5 +83,5 @@ I'm full time developer. Please contact me at ospray0222@gmail.com
           </td>
       </tr>
     </table>
-    <img src="https://github.com/osprey222/Timbo-Friends/blob/main/4.gif" />
+
 
