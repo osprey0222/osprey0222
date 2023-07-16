@@ -2,14 +2,13 @@
   <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Game%20developer;Web%20and%20Mobile%20Expert;7%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align="center">
-  <img src="akudama-drive-anime_4.1.gif" />
-</p>
-<p align="center">
  💎 💎 💎 </br>
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br>
 </p>
-    <img src="https://github.com/osprey222/Timbo-Friends/blob/main/4.gif" />
+<p align="center">
+    <img aign="center" src="https://github.com/osprey222/Timbo-Friends/blob/main/4.gif" />
+</p>
 ## Hi 👋, Senior Game & Mobile Developer!
 
 With over 7 years of experience in game development, I am confident in my ability to contribute to anyone's success.
