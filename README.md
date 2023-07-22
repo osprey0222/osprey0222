@@ -6,9 +6,7 @@
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br>
 </p>
-<p align="center">
-    <img aign="center" src="https://github.com/osprey222/Timbo-Friends/blob/main/4.gif" />
-</p>
+
 ## Hi 👋, Senior Game & Mobile Developer!
 
 With over 7 years of experience in game development, I am confident in my ability to contribute to anyone's success.
