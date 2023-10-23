@@ -7,19 +7,11 @@
  Let's go beyond our limits<br>
 </p>
 
-## Hi 👋, Senior Game & Mobile Developer!
+## Hi 👋, Software Developer!
 
-With over 7 years of experience in game development, I am confident in my ability to contribute to anyone's success.
-Throughout my career, I have gained a deep understanding of Unity and have developed a wide range of games across different platforms. I have experience with game design, programming, and optimization, ensuring that games run smoothly and efficiently. Additionally, I have experience leading teams and collaborating with artists, designers, and other developers to create high-quality games.
 
-As a remote worker, I am highly self-motivated and able to manage my time effectively. I have experience working with remote teams and understand the importance of clear communication and collaboration. I am committed to delivering high-quality work on time and within budget.
 
-Over the course of 10 years I have worked with a vast amount of technologies.
-
-Main Skills:
-- Unity3D
-
-Other Skills
+Skills
 - React, React Hooks, React Context, 
 - Tailwind CSS, Material-UI, Bootstrap
 - GraphQL, Apollo
@@ -28,8 +20,7 @@ Other Skills
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
 
-I'm full time developer. Please contact me at ospray0222@gmail.com
-
+I'm full time developer.
 
 
 
